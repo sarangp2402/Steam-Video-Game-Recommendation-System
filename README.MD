@@ -8,7 +8,7 @@ Paste the Images folder inside app folder.
 
 Run "streamlit run appname.py" from console to run streamlit interface for our video game recommendation engine.
 
-We have used NLP techniques for data wrangling and sentimental analysis
+We have used NLP techniques for data wrangling and sentimental analysis.
 
 In app.py we have used soft cosine similarity of user reviews and descriptions of video games as a similarity measure.
 
